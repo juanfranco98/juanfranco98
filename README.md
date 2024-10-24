@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan, an <a href="https://linkedin.com/in/juan-franco-65aaa513b/">IT Professional!
+<h1>Hi there, I'm Juan, an <a href="https://linkedin.com/in/juan-franco-65aaa513b/">IT Professional!
 
 <h2> Information Technology Projects:</h2>
 
